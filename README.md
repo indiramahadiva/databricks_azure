@@ -1,1 +1,1 @@
-# databricks_azure
+# Code alongs repo for Databricks and Azure course
