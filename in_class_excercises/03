@@ -1,0 +1,21 @@
+# In class exercise 03 
+
+1. Download [this dataset](https://www.kaggle.com/datasets/imdevskp/nobel-prize)
+
+2. Use SQL or spark SQL to create a schema under data catalog and a volume under that schema.
+
+    Some useful commands 
+
+    ```sql
+    CREATE SCHEMA
+    CREATE VOLUME 
+    CREATE CATALOG
+    ```
+
+3. Upload the data into the volume
+
+4. Read in the data into spark
+
+5. Count how many Swedish nobel prize medals there are 
+
+6. Short EDA of your choice - preferably with some graphs also
